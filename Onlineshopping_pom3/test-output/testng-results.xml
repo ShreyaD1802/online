@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-19T04:54:08Z" name="Default suite" finished-at="2021-04-19T04:57:06Z" duration-ms="177507">
+    <groups>
+    </groups>
+    <test started-at="2021-04-19T04:54:08Z" name="Default test" finished-at="2021-04-19T04:57:06Z" duration-ms="177507">
+      <class name="com.qa.testscript.registration_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:24:10Z" name="setup" finished-at="2021-04-19T10:24:20Z" duration-ms="10180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:24:20Z" name="signup" data-provider="getdata" finished-at="2021-04-19T10:24:49Z" duration-ms="29645" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jon@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jon]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[k]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Jon@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[jssoo7]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mumbai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11002]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9856276518]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:24:49Z" name="takeScreenShotOnFailure" finished-at="2021-04-19T10:24:51Z" duration-ms="1193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signup status=SUCCESS method=registration_test.signup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:24:51Z" name="setup" finished-at="2021-04-19T10:25:00Z" duration-ms="9082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:25:00Z" name="signup" data-provider="getdata" finished-at="2021-04-19T10:25:36Z" duration-ms="36309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[t]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tom@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[tomm001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mumbai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11223]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9852576518]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:25:36Z" name="takeScreenShotOnFailure" finished-at="2021-04-19T10:25:37Z" duration-ms="1089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signup status=SUCCESS method=registration_test.signup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:25:37Z" name="setup" finished-at="2021-04-19T10:25:47Z" duration-ms="9954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:25:47Z" name="signup" data-provider="getdata" finished-at="2021-04-19T10:26:23Z" duration-ms="36288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jack@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[po]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jack@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[jackijj001]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2146523479]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:26:23Z" name="takeScreenShotOnFailure" finished-at="2021-04-19T10:26:24Z" duration-ms="1096" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signup status=SUCCESS method=registration_test.signup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:26:24Z" name="setup" finished-at="2021-04-19T10:26:34Z" duration-ms="9813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:26:34Z" name="signup" data-provider="getdata" finished-at="2021-04-19T10:27:05Z" duration-ms="30219" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[max@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[max]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[m]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[max@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[max881]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[7625813579]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7]" started-at="2021-04-19T10:27:05Z" name="takeScreenShotOnFailure" finished-at="2021-04-19T10:27:06Z" duration-ms="1038" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signup status=SUCCESS method=registration_test.signup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.registration_test@5e3d57c7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+      </class> <!-- com.qa.testscript.registration_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
